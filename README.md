@@ -1,5 +1,8 @@
 # Naruto Data Science Portfolio Project
 Welcome, fellow shinobi! This project explores the world of Naruto anime through a data-driven lens using web scraping, natural language processing (NLP) models, and data science techniques.
+<br />
+<br />
+<br />
 ![naruto_image](images/naruto.jpg)
 
 ## Overview
